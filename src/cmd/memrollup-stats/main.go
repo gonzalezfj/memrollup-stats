@@ -8,10 +8,10 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/facujgg/memrollup-stats/src/internal/config"
-	"github.com/facujgg/memrollup-stats/src/pkg/memory"
-	"github.com/facujgg/memrollup-stats/src/pkg/output"
-	"github.com/facujgg/memrollup-stats/src/pkg/process"
+	"github.com/gonzalezfj/memrollup-stats/src/internal/config"
+	"github.com/gonzalezfj/memrollup-stats/src/pkg/memory"
+	"github.com/gonzalezfj/memrollup-stats/src/pkg/output"
+	"github.com/gonzalezfj/memrollup-stats/src/pkg/process"
 )
 
 func main() {

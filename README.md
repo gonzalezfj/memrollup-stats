@@ -14,7 +14,7 @@ A memory usage monitoring and statistics tool written in Go.
 ## Installation
 
 ```bash
-go install github.com/facujgg/memrollup-stats@latest
+go install github.com/gonzalezfj/memrollup-stats@latest
 ```
 
 ## Usage

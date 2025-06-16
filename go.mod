@@ -1,3 +1,3 @@
-module github.com/facujgg/memrollup-stats
+module github.com/gonzalezfj/memrollup-stats
 
 go 1.24

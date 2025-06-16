@@ -9,7 +9,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/facujgg/memrollup-stats/src/internal/config"
+	"github.com/gonzalezfj/memrollup-stats/src/internal/config"
 )
 
 // ProcessManager defines the interface for process management.

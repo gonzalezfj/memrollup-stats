@@ -11,8 +11,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/facujgg/memrollup-stats/src/internal/config"
-	"github.com/facujgg/memrollup-stats/src/pkg/memory"
+	"github.com/gonzalezfj/memrollup-stats/src/internal/config"
+	"github.com/gonzalezfj/memrollup-stats/src/pkg/memory"
 )
 
 // Statistics holds the calculated statistics for each metric.
