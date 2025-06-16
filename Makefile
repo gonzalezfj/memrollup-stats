@@ -4,7 +4,7 @@
 BINARY_NAME=memrollup-stats
 VERSION=$(shell git describe --tags --always --dirty 2>/dev/null || echo "dev")
 LDFLAGS=-ldflags "-X main.version=$(VERSION)"
-SRC_DIR=src
+SRC_DIR=src/cmd/memrollup-stats
 BIN_DIR=bin
 
 # Check for required tools

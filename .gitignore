@@ -29,7 +29,6 @@ go.work
 Thumbs.db
 
 # Project specific
-memrollup-stats
 *.tar.gz
 stats.csv
 stats.json
